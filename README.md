@@ -89,5 +89,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 !! ATTENTION !! If this appears, choose to “Keep” the file:
 
 <img width="354" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/7d84f212-5137-4a89-8f05-49133887b59b">
+</p>
+<br />
+9. Next, download and install the VC_redist.x86.exe from the installation files. Go through the setup wizard to finish setting up and installing.
+</p>
+<br />
+10. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) Run the setup wizard: Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration ->
 
 
