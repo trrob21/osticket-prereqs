@@ -62,10 +62,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img width="841" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/4c660131-264b-4df6-a636-eba56e0d6f08">
+<img width="579" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/44973e60-10ad-442d-9411-ca85da8ce996">
+
 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. you want to install and enable IIS in windows with CGI and Common HTTP Features. Make sure all Common HTTP Features are checked.
 </p>
 <br />
