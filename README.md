@@ -104,6 +104,7 @@ Make a new root password: Password1
 </p>
 <br />
 Execute the process.
+
 <img width="352" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/22e1f723-4277-42ba-a62d-c6b20e99255b">
 
 
