@@ -85,3 +85,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 8. From the Installation Files, download PHP 7.3.8 (php-7.3.88-nts-Win32-VC15-x866.zip) and unzip the contents into C:\PHP
+
+!! ATTENTION !! If this appears, choose to “Keep” the file:
+
+<img width="354" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/7d84f212-5137-4a89-8f05-49133887b59b">
+
+
