@@ -99,6 +99,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Make a new root password: Password1
 
 <img width="350" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/56148589-43cc-4e0d-b1ae-bc9d8c6a6c2a">
+</p>
+<br />
+Execute the process.
+<img width="352" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/22e1f723-4277-42ba-a62d-c6b20e99255b">
 
 
 
