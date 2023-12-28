@@ -43,21 +43,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 <img src="https://github.com/trrob21/osticket-prereqs/assets/150396137/b4acaa20-bebe-4073-8099-a4aab9e769cf">
 
+2. Once your virtual machine is created you will want to take note of the public ip address the vm is setup with so you can connect to it using the Remote Desktop App
 </p>
 <p>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1217" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/66f12370-e628-4f8d-bcd5-87af1bc7c6b2">
+<img width="310" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/b13053e6-1195-449f-a1e9-bc4dc6de7a8f">
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. After connecting to your virtual machine you want to open up your control panel. From there open "Programs" and select "Turn windows features on and off".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="841" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/4c660131-264b-4df6-a636-eba56e0d6f08">
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
