@@ -116,6 +116,30 @@ Execute the process.
 12. Now we have to register PHP within IIS. Click PHP Manager then select "Register new PHP version".
 </p>
 <img width="353" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/a6559788-0ec2-4751-baa4-31b5ff53b2e1">
+</p>
+Provide a path to the php executable file (php-cgi.exe). Go to C Drive -> PHP -> click on php-cgi file.
+</p>
+<img width="385" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/d2d79e51-6aa3-461c-8b88-6ec77f7bd5f0">
+</p>
+Then restart the IIS server.
+</p>
+<img width="1130" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/3aaa3ec5-e1ef-4cca-9781-90c6f8f39e4c">
+</p>
+<br />
+13. Install osTicket v1.15.8
+</p>
+  -Download osTicket from the Installation Files Folder
+
+  -Extract and copy "upload" folder to c:\inetpub\wwwroot
+  
+  -Within c:\inetpub\root, Rename "upload" to "osTicket"
+  </p>
+  Reload IIS again
+  
+
+
+
+
 
 
 
