@@ -106,6 +106,18 @@ Make a new root password: Password1
 Execute the process.
 </p>
 <img width="352" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/22e1f723-4277-42ba-a62d-c6b20e99255b">
+</p>
+<br />
+11. After downloading and installing the files search for IIS in the windows search bar and open program as administrator. The program looks like this.
+</p>
+<img width="355" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/dd42f37c-559f-45b7-b354-a80a62742004">
+</p>
+<br />
+12. Now we have to register PHP within IIS. Click PHP Manager then select "Register new PHP version".
+</p>
+<img width="353" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/a6559788-0ec2-4751-baa4-31b5ff53b2e1">
+
+
 
 
 
