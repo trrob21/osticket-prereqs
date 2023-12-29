@@ -169,15 +169,25 @@ Click Add -> select Principal
 
 Type "Everyone" in the box then click OK.
 
-Make sure all bowes are checked.
+Make sure all bowes are checked then click ok.
 
 <img width="680" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/b0e8a82e-62c7-41c7-99ca-a4925a3b451b">
 
+Click Apply then OK.
 
+<img width="571" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/21886a1d-4c95-4593-b9ee-e7473273e5ed">
 
+Once that is done we will continue to setup osTicket in the browser. Click Continue on the osTicket browser page. Fill out the page as required except the Database Settings at the bottom of the page. We will get to that.
 
+We will want to download and install HeidiSQL from the Installation Files.
 
+Once the program is open creat a new session in it.
 
+<img width="508" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/2a0a60ca-f0db-4556-ba30-67ac8e716040">
+
+Make sure the username is root and the password is "Password1"
+
+<img width="509" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/9cdcf7b1-f9bf-48e1-9a21-31c8cfaffef2">
 
 
 
