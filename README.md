@@ -135,7 +135,24 @@ Then restart the IIS server.
   -Within c:\inetpub\root, Rename "upload" to "osTicket"
   </p>
   Reload IIS again
-  
+</p>
+<br />
+14. On IIS go to sites -> Default -> osTicket -On the right, click “Browse *:80”
+</p>
+<img width="1128" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/340ca697-e553-4746-98d0-a0ec88865c0d">
+</p>
+You'll notice that some extensions are not enabled on the osTicket browser.
+</p>
+<img width="614" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/ec7832a3-16cd-4c72-878b-4de5ec2f15a6">
+</p>
+To enable the extensions Go back to IIS, sites -> Default -> osTicket -Double click PHP manager -Click "Enable or disable an extension".
+</p>
+<img width="712" alt="image" src="https://github.com/trrob21/osticket-prereqs/assets/150396137/12b6aa39-c42b-4b0d-ac29-57e079ad7b4a">
+
+
+
+
+
 
 
 
